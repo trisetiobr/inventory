@@ -1,0 +1,14 @@
+{
+	"api": {
+		"command": "php -S localhost:8000",
+		"port": "8000",
+		"host": "localhost",
+		"url": "localhost:8000",
+	},
+	"account": {
+		"command": "php -S localhost:8001",
+		"port": "8001",
+		"host": "localhost",
+		"url": "localhost:8001",
+	}
+}
